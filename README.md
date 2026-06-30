@@ -12,7 +12,7 @@ Building intelligent systems for scientific computing, biomedical engineering, i
 
 # About Me
 
-I am an Electrical & Computer Engineering PhD candidate with a strong background in Artificial Intelligence, Machine Learning, Scientific Computing, and Biomedical Engineering.
+I am an Electrical & Computer Engineering PhD with a strong background in Artificial Intelligence, Machine Learning, Scientific Computing, and Biomedical Engineering.
 
 My work combines research and software engineering to build practical AI systems, including Retrieval-Augmented Generation (RAG), information retrieval platforms, predictive modeling pipelines, and scientific machine learning applications.
 
